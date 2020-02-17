@@ -14,5 +14,5 @@ def input_to_index(number)
 end
 
 def move(b_array, idx, char = "X")
-    
+    b_array[idx] = char
 end
