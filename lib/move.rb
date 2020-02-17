@@ -14,5 +14,6 @@ def input_to_index(number)
 end
 
 def move(b_array, idx, char = "X")
-  
+  board
+  b_array[idx] = 
 end
